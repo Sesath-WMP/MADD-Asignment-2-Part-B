@@ -1,0 +1,108 @@
+{
+  "content": [
+    {
+      "id": "11111111-1111-1111-1111-111111111111",
+      "title": "Neon Nature",
+      "description": "A calming fly-through of a bioluminescent forest.",
+      "thumbnailName": "neon_nature",
+      "videoFileName": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+      "durationSeconds": 120.0
+    },
+    {
+      "id": "22222222-2222-2222-2222-222222222222",
+      "title": "City Lights Drift",
+      "description": "Slow pan across a cyberpunk skyline.",
+      "thumbnailName": "city_lights",
+      "videoFileName": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+      "durationSeconds": 180.0
+    },
+    {
+      "id": "33333333-3333-3333-3333-333333333333",
+      "title": "Ocean Pulse",
+      "description": "Minimal lo-fi beats over deep sea visuals.",
+      "thumbnailName": "ocean_pulse",
+      "videoFileName": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4",
+      "durationSeconds": 200.0
+    },
+    {
+      "id": "44444444-4444-4444-4444-444444444444",
+      "title": "Retro Arcade Night",
+      "description": "Pixel art worlds synced to synthwave.",
+      "thumbnailName": "arcade_night",
+      "videoFileName": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
+      "durationSeconds": 150.0
+    },
+    {
+      "id": "55555555-5555-5555-5555-555555555555",
+      "title": "Skyline Timewarp",
+      "description": "Sunset to midnight in a single shot.",
+      "thumbnailName": "skyline_timewarp",
+      "videoFileName": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
+      "durationSeconds": 160.0
+    },
+    {
+      "id": "66666666-6666-6666-6666-666666666666",
+      "title": "Cosmic Drift",
+      "description": "A journey through stylized nebulas and stars.",
+      "thumbnailName": "cosmic_drift",
+      "videoFileName": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/SubaruOutbackOnStreetAndDirt.mp4",
+      "durationSeconds": 210.0
+    }
+  ],
+  "quizPack": {
+    "items": [
+      {
+        "id": "aaaaaaaa-aaaa-aaaa-aaaa-aaaaaaaaaaaa",
+        "question": "What color dominates the scene right now?",
+        "choices": [
+          { "id": "a1a1a1a1-a1a1-a1a1-a1a1-a1a1a1a1a1a1", "text": "Deep green" },
+          { "id": "a1a1a1a1-a1a1-a1a1-a1a1-a1a1a1a1a1a2", "text": "Neon pink" },
+          { "id": "a1a1a1a1-a1a1-a1a1-a1a1-a1a1a1a1a1a3", "text": "Orange" },
+          { "id": "a1a1a1a1-a1a1-a1a1-a1a1-a1a1a1a1a1a4", "text": "Blue" }
+        ],
+        "correctIndex": 0,
+        "triggerTime": 10.0,
+        "points": 100
+      },
+      {
+        "id": "bbbbbbbb-bbbb-bbbb-bbbb-bbbbbbbbbbbb",
+        "question": "How many main characters are currently visible?",
+        "choices": [
+          { "id": "b1b1b1b1-b1b1-b1b1-b1b1-b1b1b1b1b1b1", "text": "1" },
+          { "id": "b1b1b1b1-b1b1-b1b1-b1b1-b1b1b1b1b1b2", "text": "2" },
+          { "id": "b1b1b1b1-b1b1-b1b1-b1b1-b1b1b1b1b1b3", "text": "3" },
+          { "id": "b1b1b1b1-b1b1-b1b1-b1b1-b1b1b1b1b1b4", "text": "4+" }
+        ],
+        "correctIndex": 1,
+        "triggerTime": 35.0,
+        "points": 150
+      },
+      {
+        "id": "cccccccc-cccc-cccc-cccc-cccccccccccc",
+        "question": "What is the overall mood of the music?",
+        "choices": [
+          { "id": "c1c1c1c1-c1c1-c1c1-c1c1-c1c1c1c1c1c1", "text": "Relaxed" },
+          { "id": "c1c1c1c1-c1c1-c1c1-c1c1-c1c1c1c1c1c2", "text": "Tense" },
+          { "id": "c1c1c1c1-c1c1-c1c1-c1c1-c1c1c1c1c1c3", "text": "Chaotic" },
+          { "id": "c1c1c1c1-c1c1-c1c1-c1c1-c1c1c1c1c1c4", "text": "Sad" }
+        ],
+        "correctIndex": 0,
+        "triggerTime": 65.0,
+        "points": 120
+      },
+      {
+        "id": "dddddddd-dddd-dddd-dddd-dddddddddddd",
+        "question": "Which element just appeared on screen?",
+        "choices": [
+          { "id": "d1d1d1d1-d1d1-d1d1-d1d1-d1d1d1d1d1d1", "text": "City skyline" },
+          { "id": "d1d1d1d1-d1d1-d1d1-d1d1-d1d1d1d1d1d2", "text": "Waves" },
+          { "id": "d1d1d1d1-d1d1-d1d1-d1d1-d1d1d1d1d1d3", "text": "Character close-up" },
+          { "id": "d1d1d1d1-d1d1-d1d1-d1d1-d1d1d1d1d1d4", "text": "Stars" }
+        ],
+        "correctIndex": 3,
+        "triggerTime": 95.0,
+        "points": 200
+      }
+    ]
+  }
+}
